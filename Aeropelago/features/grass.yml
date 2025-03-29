@@ -34,5 +34,5 @@ structures:
       expression: humidity(x, z)
   structures:
     - tall_grass: 1
-    - BLOCK:minecraft:grass: 1
+    - BLOCK:minecraft:short_grass: 1
     - blank: 1
