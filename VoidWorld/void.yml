@@ -10,5 +10,5 @@ terrain:
 
 palette:
   - BLOCK:minecraft:air: 319
-  - BLOCK:minecraft:bedrock: 0
+  - BLOCK:minecraft:emerald_block: 0
   - BLOCK:minecraft:air: -1
